@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "796407961201",
+    "firebase_url": "https://notificacao-1d895.firebaseio.com",
+    "project_id": "notificacao-1d895",
+    "storage_bucket": "notificacao-1d895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796407961201:android:9d0e1018d0b540c3",
+        "android_client_info": {
+          "package_name": "com.example.lfiore.notificacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796407961201-0kbelos5dn6s4b2f8sj2q70jhokj6595.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARC-Ds2O-WI8PcWsdw5fbMVTG2ZxiLmRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
