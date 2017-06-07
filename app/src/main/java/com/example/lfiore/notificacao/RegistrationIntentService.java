@@ -19,6 +19,7 @@ public class RegistrationIntentService extends IntentService {
     private NotificationHub hub;
 
     //Tag única de cada dispositivo. -Sugiro gravar o login do usuário-
+    //A notificaçao é enviada através desta tag
     private String tag = "genymotion";
 
     public RegistrationIntentService() {
